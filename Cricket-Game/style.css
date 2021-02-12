@@ -1,0 +1,38 @@
+body{
+  background: url(https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1467&q=80);
+  background-size: cover;
+  color: white;
+}
+.row {
+  text-align: center;
+  padding-bottom: 30px;
+
+}
+
+#hit1, #hit2{
+
+  background-color: lightcyan;
+  padding: 10px;
+}
+
+
+
+
+#start{
+  padding: 20px;
+  background-color: lightcyan;
+}
+
+.cricket-main{
+  padding: 20px;
+}
+
+h1,h6{
+  text-align: center;
+  text-decoration: thistles;
+}
+
+#inner-div{
+  padding: 20px;
+}
+
